@@ -11,7 +11,8 @@ Research focused on reasoning, planning, tool use, and decision-making capabilit
 
 | Paper | Link | Description |
 |------|------|-------------|
-| Paper Title | [Read Paper](link_here) | Short 1–2 sentence explanation of what the paper proposes or demonstrates. |
+| Agentic Reasoning: A Streamlined Framework for Enhancing LLM
+Reasoning with Agentic Tools | [Read Paper](https://aclanthology.org/2025.acl-long.1383.pdf) | Short 1–2 sentence explanation of what the paper proposes or demonstrates. |
 
 ## Reinforcement Learning Papers
 
