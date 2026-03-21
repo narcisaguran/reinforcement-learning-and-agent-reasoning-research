@@ -1,4 +1,4 @@
-# AI Research Papers Collection
+# RL Research Papers Collection
 
 A curated list of important research papers related to **LLM agent reasoning** and **Reinforcement Learning**.  
 Each paper includes a link and a short description.
@@ -19,4 +19,5 @@ Key papers covering reinforcement learning algorithms, theory, and practical app
 
 | Paper | Link | Description |
 |------|------|-------------|
-| Paper Title | [Read Paper](link_here) | Short explanation of the algorithm or concept introduced. |
+| Human-level control through deep reinforcement
+learning | [Read Paper]([link_here](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)) |  |
