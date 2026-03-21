@@ -19,4 +19,4 @@ Key papers covering reinforcement learning algorithms, theory, and practical app
 
 | Paper | Link | Description |
 |------|------|-------------|
-| Human-level control through deep reinforcement learning | [Read Paper](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)| Introdduces the DQN algorithm used to update a policy evaluated on a set of video games. |
+| Human-level control through deep reinforcement learning | [Read Paper](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)| Introduces the DQN algorithm used to update a policy evaluated on a set of video games. |
