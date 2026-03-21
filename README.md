@@ -19,4 +19,4 @@ Key papers covering reinforcement learning algorithms, theory, and practical app
 
 | Paper | Link | Description |
 |------|------|-------------|
-| Human-level control through deep reinforcement learning | [Read Paper]([[link_here](https://web.stanford.edu/class/psych209Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf) |  |
+| Human-level control through deep reinforcement learning | [Read Paper](https://web.stanford.edu/class/psych209Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)|  |
