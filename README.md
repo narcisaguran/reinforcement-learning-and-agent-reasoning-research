@@ -20,8 +20,7 @@ Research focused on Information Retrieval systems based on LLM enhanced with rea
 
 | Paper | Link | Description |
 |------|------|-------------|
-| Search-R1: Training LLMs to Reason and Leverage Search
-Engines with Reinforcement Learning | [Read Paper](https://arxiv.org/pdf/2503.09516) | Constantly outperforms other baselines such as CoT, IRCoT, Search-o1, RAG, SFT, R1-base, R1-instruct, Rejection Sampling on a series of datasets: NQ, TriviaQA, PopQA, HotpotQA, 1wiki, Musique, Bamboogle. Uses models Qwen2.5-3B/7B base/instruct trained with PPO/GRPO policy optimization algos with E5 retrieval model, w/ and w/o **retrieval token loss masking**. |
+| Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning | [Read Paper](https://arxiv.org/pdf/2503.09516) | Constantly outperforms other baselines such as CoT, IRCoT, Search-o1, RAG, SFT, R1-base, R1-instruct, Rejection Sampling on a series of datasets: NQ, TriviaQA, PopQA, HotpotQA, 1wiki, Musique, Bamboogle. Uses models Qwen2.5-3B/7B base/instruct trained with PPO/GRPO policy optimization algos with E5 retrieval model, w/ and w/o **retrieval token loss masking**. |
 
 ## Reinforcement Learning Papers
 
