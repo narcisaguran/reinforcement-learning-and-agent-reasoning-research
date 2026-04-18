@@ -31,3 +31,11 @@ Key papers covering reinforcement learning algorithms, theory, and practical app
 | Paper | Link | Description | Year |
 |------|------|-------------|--------|
 | Human-level control through deep reinforcement learning | [Read Paper](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)| Introduces the **DQN** algorithm from DeepMind used to update a policy evaluated on a set of video games. | |
+
+## Datasets
+
+Key datasets used in the context of information retrieval. 
+
+| Paper | Link | Description | Year |
+|------|------|-------------|--------|
+| LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory | [Read Paper](https://arxiv.org/pdf/2410.10813)| Tackles problems such as long context inputs, the lost-in-the-middle phenomenon, and text summarization. Key takeaways: Chain-of-Note and JSON format for input. | ICLR 2025 |
