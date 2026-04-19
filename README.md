@@ -39,3 +39,12 @@ Key datasets used in the context of information retrieval.
 | Paper | Link | Description | Year |
 |------|------|-------------|--------|
 | LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory | [Read Paper](https://arxiv.org/pdf/2410.10813)| Tackles problems such as long context inputs, the lost-in-the-middle phenomenon, and text summarization. Key takeaways: Chain-of-Note and JSON format for input. | ICLR 2025 |
+
+## Utilities 
+
+Some key papers that tackle LLM-related matters that can be used for further analysis in other scenarios.
+
+| Paper | Link | Description | Year |
+|------|------|-------------|--------|
+| Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning | [Read Paper](https://arxiv.org/abs/2306.01150)| Framing instructions as a structured input/action/output triplet is potentially a more efficient and effective way of creating task definitions (JSON format). Using only basic metadata and the label space (without label definitions) in a structured format, we achieve similar, or even better performance as with full definitions. Adding a meta-tuning stage for adapting models to the writing styles of definitions improves the performance. | June 2023 |
+
