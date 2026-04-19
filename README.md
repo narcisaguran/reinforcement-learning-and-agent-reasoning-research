@@ -42,7 +42,7 @@ Key datasets used in the context of information retrieval.
 
 ## Utilities 
 
-Some key papers that tackle LLM-related matters that can be used for further analysis in other scenarios.
+A few important papers addressing LLM-related topics that can serve as a foundation for analysis in other contexts.
 
 | Paper | Link | Description | Year |
 |------|------|-------------|--------|
